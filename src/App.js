@@ -1,5 +1,5 @@
 import './App.css';
-import { useState, Fragment } from 'react';
+import { useState } from 'react';
 import Loader from './loader';
 
 function App() {
